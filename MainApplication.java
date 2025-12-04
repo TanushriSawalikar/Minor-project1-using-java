@@ -10,7 +10,7 @@ public class MainApplication {
 
         System.out.println("--- Simple Loan Calculator ---");
         
-        System.out.print("Enter Loan Principal Amount (e.g., 200000): $");
+        System.out.print("Enter Loan Principal Amount (e.g., 200000): $"); 
         double principal = scanner.nextDouble();
 
         System.out.print("Enter Annual Interest Rate (e.g., 4.5 for 4.5%): ");
